@@ -4,7 +4,7 @@ This is a simple Django project for **Day 1 Task**: building a personal profile 
 
 ---
 
-## 📌 Features
+## Features
 
 - Function-based view that displays a name, bio, and list of skills.
 - HTML template renders profile details using Django template variables.
@@ -15,7 +15,7 @@ This is a simple Django project for **Day 1 Task**: building a personal profile 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.13
 - Django 5.2.4
@@ -24,7 +24,7 @@ This is a simple Django project for **Day 1 Task**: building a personal profile 
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone or Download
 
@@ -67,7 +67,7 @@ Go to:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Django_Lab1/
@@ -89,11 +89,4 @@ Django_Lab1/
 
 ## 👤 Author
 
-**Tasneem Mohamed**  
-[Optional GitHub/LinkedIn/email here]
-
----
-
-## 📚 License
-
-This project is for educational purposes.
+# **Tasneem Mohamed**  
